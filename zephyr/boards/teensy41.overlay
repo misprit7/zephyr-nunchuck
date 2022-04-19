@@ -1,0 +1,4 @@
+&lpi2c1 {
+    clock-frequency = <I2C_BITRATE_FAST>;
+    status = "okay";
+};
